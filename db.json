@@ -1,0 +1,12 @@
+{
+  "employees": [
+    {
+      "id": "f883",
+      "name": "George Bacalu",
+      "email": "georgebacalu@email.com",
+      "mobile": "0700000000",
+      "address": "Fake Street 100",
+      "active": true
+    }
+  ]
+}
